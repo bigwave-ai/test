@@ -1,0 +1,9 @@
+fastapi==0.78.0
+uvicorn[standard]
+sqlalchemy
+python-jose
+python-multipart
+fastapi-crudrouter
+psycopg2
+datetime
+passlib
